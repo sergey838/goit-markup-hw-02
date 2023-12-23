@@ -21,12 +21,7 @@ text-decoration: none;
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
-.header-logo:hover {
-    color: #404bbf;
-}
-.header-logo:focus {
-    color: #404bbf;
-}
+
 .nav1{
     font-weight: 500;
     color: #2E2F42;
