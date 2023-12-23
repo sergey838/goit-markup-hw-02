@@ -124,6 +124,9 @@ text-decoration: none;
 .section-c {
     background-color: #F4F4FD;
 }
+.list-item {
+    background-color: #FFFFFF;
+}
 .section-c-text {
     background-color: #FFFFFF;
     font-size: 16px;
