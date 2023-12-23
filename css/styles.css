@@ -21,7 +21,15 @@ text-decoration: none;
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
-
+.list-header {
+    color: #2e2f42;
+}
+.list-header:hover {
+    color: #404bbf;
+}
+.list-header:focus {
+    color: #404bbf;
+}
 .nav1{
     font-weight: 500;
     color: #2E2F42;
@@ -82,9 +90,7 @@ text-decoration: none;
 .button:focus {
     background-color: #404BBF;
 }
-.header-logo:hover{
-    color:
-}
+
 .p-text {
     font-size: 16px;
     line-height: 1.5;
